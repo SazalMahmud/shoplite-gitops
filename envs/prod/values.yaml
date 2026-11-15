@@ -1,0 +1,11 @@
+registry: local
+imageTag: "dev"
+web:
+  replicas: 2
+catalogApi:
+  replicas: 3
+chaos:
+  latencyMs: "0"
+  errorRate: "0"
+  memoryLeak: "false"
+  slowDb: "false"
