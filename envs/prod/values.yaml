@@ -9,3 +9,4 @@ chaos:
   errorRate: "0"
   memoryLeak: "false"
   slowDb: "false"
+ingressHost: "prod.shoplite.local"
