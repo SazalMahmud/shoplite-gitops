@@ -6,6 +6,6 @@ catalogApi:
   replicas: 2
 chaos:
   latencyMs: "0"
-  errorRate: "0.3"
+  errorRate: "0"
   memoryLeak: "false"
   slowDb: "false"
